@@ -1,4 +1,4 @@
-# OIBSIP-Project3
+# OIBSIP - Project1 : ATM Interface 
 
 __Oasis Infobyte Internship - Task 3 :-__
 
